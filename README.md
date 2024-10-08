@@ -1,2 +1,2 @@
-# Fibbonachi-Sequence
+# Set Calculator
 Discrete Structure Project 
